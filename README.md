@@ -10,7 +10,7 @@
   
   <!-- Social Network -->
   
-<a href="https://www.linkedin.com/in/david-f-chapman/">
+<a href="">
   <img align="center" 
        alt="Linkedin" 
        width="22px" 
@@ -18,7 +18,7 @@
   </a>
   
 
-<a href="mailto:davodia1987@gmail.com">
+<a href="mailto:">
   <img align="center" 
        alt="Gmail" 
        width="22px" 
